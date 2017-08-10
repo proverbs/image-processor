@@ -1,0 +1,4 @@
+../image\fuck\001.jpg 187 415 246 475
+../image\fuck\002.jpg 228 392 184 348
+../image\fuck\003.jpg 147 377 187 418
+../image\fuck\004.jpg
