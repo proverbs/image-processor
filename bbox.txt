@@ -2,3 +2,8 @@
 ../image\fuck\002.jpg 228 392 184 348
 ../image\fuck\003.jpg 147 377 187 418
 ../image\fuck\004.jpg
+../image\fuck\180.jpg 61 164 87 190
+../image\fuck\185.jpg 68 185 78 195
+../image\fuck\232.jpg
+../image\fuck\248.jpg 69 178 85 194
+../image\fuck\259.jpg 1 41 5 45

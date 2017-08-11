@@ -1,0 +1,7 @@
+../cropped-image\fuck\001.jpg 0 147 0 147
+../cropped-image\fuck\002.jpg 0 147 0 147
+../cropped-image\fuck\003.jpg 0 147 0 147
+../cropped-image\fuck\180.jpg 0 147 0 147
+../cropped-image\fuck\185.jpg 0 147 0 147
+../cropped-image\fuck\248.jpg 0 147 0 147
+../cropped-image\fuck\259.jpg 0 147 0 147
